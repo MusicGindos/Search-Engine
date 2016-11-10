@@ -1,0 +1,88 @@
+﻿body {
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+    font-family: Arial;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+.searchText{
+    width: 500px;
+}
+.button{
+    width:50px;
+    color:cornflowerblue;
+}
+.radioButton{
+
+}
+.helpButton{
+    margin-right:auto
+}
+.helpDiv{
+    /*margin-left: auto;
+    margin-right: auto;*/ 
+    text-align: center;
+   
+}
+#resultDivText{
+    text-align:center;
+    margin: 0px auto;
+}
+
+.abortButtons{
+    margin-top:20px;
+    left: 38%;
+}
+
+.radioButtons{
+    margin: 0px auto;
+    text-align: center;
+    border-radius: 1px;
+    border: #808080 solid 1px;
+    width:60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+#radioButton, #abortRadioButtonList{
+        margin: 0px auto;
+}
+
+#songDiv{
+    display: none;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+.albums{
+    width: 100px;
+    height: 100px;
+    left: -25%;
+    position: relative;
+    top: -75px;
+    display: flex;
+    border-radius:50%;
+}
+
+.logIn{
+    margin: 0px auto;
+    top: 10px;
+	left:451px;
+}
+.inputPassword{
+    text-align: center;
+    width: 112px;
+    left: 414px;
+    top: 15px;
+    position: relative;
+}
